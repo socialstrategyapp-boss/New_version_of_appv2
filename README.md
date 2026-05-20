@@ -15,9 +15,9 @@ Put your new app code inside this project, while keeping your app’s original f
 
 ## Step 2: What to do right after
 Once your files are in place, continue with the setup checklist below:
-- connecting the app to the websites and apps it needs
-- setting up important services (one at a time)
-- checking that each stage works before moving forward
-- choosing build options based on your goals
+- connecting the app to your key tools (for example: website, social accounts, and analytics)
+- setting up core services one by one (for example: login, data storage, and notifications)
+- checking each stage works before moving forward (open the app and confirm each feature)
+- choosing a build direction based on your goal (speed first, design first, or growth first)
 
 You bring the ideas — this guide will help you execute each step clearly and simply.
