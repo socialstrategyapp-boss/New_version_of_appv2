@@ -4,16 +4,17 @@ Welcome! This project is your new app workspace.
 
 ## Step 1: Where to put your new app code
 
-Put your code files inside the main project folder (the same folder where this `README.md` file is).
+Put your new app code inside this project, while keeping your app’s original folder structure.
 
 ### Simple way to do it
-1. Open that folder on your computer.
-2. Copy your new app code files into this folder.
-3. If asked to replace old files, choose **Replace**.
-4. Keep the file and folder names exactly as they are in your app code.
+1. Open this project folder on your computer.
+2. Copy your new app code into this project.
+3. Keep folders like `src`, `app`, `lib`, or any other app folders exactly as they are.
+4. Before replacing any existing files, make a backup copy first.
+5. If asked to replace old files after backup, choose **Replace**.
 
 ## Step 2: What to do right after
-Once your files are in place, the next step-by-step guide can walk you through:
+Once your files are in place, continue with the setup checklist below:
 - connecting the app to the websites and apps it needs
 - setting up important services (one at a time)
 - checking that each stage works before moving forward
