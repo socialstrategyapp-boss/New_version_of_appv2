@@ -20,4 +20,6 @@ Once your files are in place, continue with the setup checklist below:
 - checking each stage works before moving forward (open the app and confirm each feature)
 - choosing a build direction based on your goal (speed first, design first, or growth first)
 
+These are starter examples for planning. After your code is added, the exact project-specific setup steps can be provided one-by-one.
+
 You bring the ideas — this guide will help you execute each step clearly and simply.
